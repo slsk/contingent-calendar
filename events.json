@@ -1,0 +1,44 @@
+{
+  "creator": "Slovenský Skauting",
+  "updated": "12.02.2017",
+  "events": [
+    {
+      "slug": "ordinary-event",
+      "name": "Obyčajná zahraničná akcia",
+      "description": "Pre všetky normálne zahraničné akcie",
+      "deadlines": [
+        {
+          "title": "Začiatok hladania šéfa kontingentu",
+          "steps": "Treba vytvoriť formulár, dať info na web",
+          "type": "notice",
+          "date": "-1y"
+        },
+        {
+          "title": "Treba zorganizovať pohovory na vedúcich",
+          "steps": "Prichystať harmonogram pohovorov a otázok",
+          "type": "notice",
+          "date": "-11M"
+        }
+      ]
+    },
+    {
+      "slug": "wsj",
+      "name": "Svetové jamboree",
+      "description": "",
+      "deadlines": [
+        {
+          "title": "Začiatok hladania šéfa kontingentu",
+          "steps": "Treba vytvoriť formulár, dať info na web",
+          "type": "notice",
+          "date": "-1y"
+        },
+        {
+          "title": "Treba zorganizovať pohovory na vedúcich",
+          "steps": "Prichystať harmonogram pohovorov a otázok",
+          "type": "alarm",
+          "date": "-11M"
+        }
+      ]
+    }
+  ]
+}
