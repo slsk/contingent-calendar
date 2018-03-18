@@ -1,0 +1,26 @@
+{
+  "name": "contingent-calendar",
+  "version": "1.0.0",
+  "description": "Simple app which generates contingent deadlines based on scouting slovakia contingent manual",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slsk/contingent-calendar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slsk/contingent-calendar/issues"
+  },
+  "homepage": "https://github.com/slsk/contingent-calendar#readme",
+  "dependencies": {
+    "filesaver.js": "^1.3.4",
+    "ics.js": "git+https://github.com/nwcell/ics.js.git",
+    "jquery": "^3.3.1",
+    "materialize-css": "^0.100.2",
+    "relative-time-parser": "^1.0.9"
+  }
+}

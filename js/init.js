@@ -136,7 +136,7 @@ function calendarGenerate(data, settings){
         //console.log(deadline.title, date);
         cal.addEvent("["+event.name+"]"+deadline.title, deadline.steps, "", date, date);
     });
-    //cal.download(event.name);
+    cal.download(event.name);
     //var momentEvent = moment(event.date, "dd.mm.yyyy");
 
 
